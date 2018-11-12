@@ -7,7 +7,7 @@ These files have to be downloded and placed in the root folder of your Laravel a
 
 ## Services Versions
 
-This docker will work with Laravel 5.5 and latest.
+This docker will work for Laravel 5.5 and latest.
 
 - FROM nginx:latest
 - FROM php:7.1-fpm
